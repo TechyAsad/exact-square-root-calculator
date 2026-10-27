@@ -1,12 +1,12 @@
-# 8-bit Exact Square Root Calculator on Basys 3 FPGA
+# Exact Square Root Calculator on Basys 3 FPGA
 
-A hardware implementation of an **8-bit exact integer square root calculator** using Verilog and deployed on the **Basys 3 FPGA (Xilinx Artix-7)**. Designed as a learning project to explore digit-recurrence arithmetic, algorithm-to-hardware translation, and FPGA implementation.
+A hardware implementation of an **exact integer square root calculator** using Verilog and deployed on the **Basys 3 FPGA (Xilinx Artix-7)**. Designed as a learning project to explore digit-recurrence arithmetic, algorithm-to-hardware translation, and FPGA implementation.
 
 ---
 
 ## Introduction
 
-This repository implements an **8-bit exact square root calculator** in Verilog and successfully runs it on a **Basys 3 FPGA** board. The design is based on classic square-rooting techniques described in *Computer Arithmetic: Algorithms and Hardware Designs* (2nd Edition) by Behrooz Parhami, particularly the digit-recurrence and binary non-restoring methods discussed in **Chapter 21 Square-Rooting Methods**. This project helped me deepen my understanding of hardware arithmetic and FPGA workflows while translating theory into functioning digital logic.
+This repository implements an **exact square root calculator** in Verilog and successfully runs it on a **Basys 3 FPGA** board. The design is based on classic square-rooting techniques described in *Computer Arithmetic: Algorithms and Hardware Designs* (2nd Edition) by Behrooz Parhami, particularly the digit-recurrence and binary non-restoring methods discussed in **Chapter 21 Square-Rooting Methods**. This project helped me deepen my understanding of hardware arithmetic and FPGA workflows while translating theory into functioning digital logic.
 
 ---
 
